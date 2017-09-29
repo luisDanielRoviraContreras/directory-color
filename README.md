@@ -9,7 +9,14 @@ Atom Package Manager (APM):
 ```bash
 apm install directory-color
 ```
-<!-- # Screenshots -->
+# Screenshots
+
+![preview gif](https://i.imgur.com/9sIVBsV.gif)
+
+![preview gif](https://i.imgur.com/pzozSfO.png)
+
+![preview gif](https://i.imgur.com/lkMXog3.png)
+
 
 # LusaxWeb
 
