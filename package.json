@@ -1,7 +1,7 @@
 {
   "name": "directory-color",
   "main": "./lib/directory-color",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "change the focus color in the directory to know better where you are.",
   "keywords": [
     "directory",
