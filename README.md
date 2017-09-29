@@ -15,8 +15,7 @@ apm install directory-color
 
 ![preview gif](https://i.imgur.com/pzozSfO.png)
 
-![preview gif](https://i.imgur.com/lkMXog3.png)
-
+![preview gif](https://i.imgur.com/DaxAs6J.png)
 
 # LusaxWeb
 
