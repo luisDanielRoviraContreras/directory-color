@@ -1,6 +1,16 @@
+
 # directory-color package
 
-A short description of your package.
+change the focus color in the directory to know better where you are
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
-# directory-color
+# install
+
+Atom Package Manager (APM):
+```bash
+apm install directory-color
+```
+<!-- # Screenshots -->
+
+# LusaxWeb
+
+this plugin is creator by [lusaxweb](http://www.lusaxweb.com.ve/)
